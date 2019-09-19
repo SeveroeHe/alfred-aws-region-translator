@@ -1,0 +1,13 @@
+{
+	"CHINA": ["BJS", "ZHY"],
+	"USA": ["IAD", "CMH", "SFO", "PDX", "OSU", "PDT"],
+	"HKG": ["HKG"],
+	"IN": ["BOM"],
+	"JAPAN": ["NRT", "KIX"],
+	"KOREA": ["ICN"],
+	"SINGAPORE": ["SIN"],
+	"AUSTRALIA": ["SYD"],
+	"EU":["FRA", "DUB", "LHR", "CDG", "ARN"],
+	"ME": ["BAH"],
+	"BRAZIL": ["GRU"]
+}
