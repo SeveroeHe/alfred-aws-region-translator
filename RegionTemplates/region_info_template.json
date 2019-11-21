@@ -21,5 +21,9 @@
 	"CDG": ["CDG", "eu-west-3", "EU Paris"],
 	"ARN": ["ARN", "eu-north-1", "EU Stockholm"],
 	"BAH": ["BAH", "me-south-1", "Middle East Bahrain"],
-	"GRU": ["GRU", "sa-east-1", "South America São Paulo"]
+	"GRU": ["GRU", "sa-east-1", "South America São Paulo"],
+	"DCA": ["DCA", "us-iso-east-1", "MVP east1"],
+	"LCK": ["LCK", "us-isob-east-1", "MVP eastb1"],
+	"MXP": ["MXP", "eu-south-1", "Milan Malpensa"],
+	"CPT": ["CPT", "af-south-1", "SouthAfrica CapeTown"]
 }

@@ -1,13 +1,15 @@
 {
 	"CHINA": ["BJS", "ZHY"],
-	"USA": ["IAD", "CMH", "SFO", "PDX", "OSU", "PDT"],
+	"USA": ["IAD", "CMH", "SFO", "PDX", "OSU", "PDT", "DCA", "LCK"],
 	"HKG": ["HKG"],
 	"IN": ["BOM"],
 	"JAPAN": ["NRT", "KIX"],
 	"KOREA": ["ICN"],
 	"SINGAPORE": ["SIN"],
 	"AUSTRALIA": ["SYD"],
-	"EU":["FRA", "DUB", "LHR", "CDG", "ARN"],
+	"EU":["FRA", "DUB", "LHR", "CDG", "ARN", "MXP"],
 	"ME": ["BAH"],
-	"BRAZIL": ["GRU"]
+	"BRAZIL": ["GRU"],
+	"CANADA": ["YUL"],
+	"SOUTHAFRICA": ["CPT"]
 }
